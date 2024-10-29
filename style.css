@@ -47,6 +47,7 @@ button {
     align-items: center;
     max-width: 300px;
     min-width: 200px;
+    transition: all 0.3s ease;
 }
 .station:hover {
     background-color: #e0f7ff; /* Light blue background */
